@@ -25,7 +25,7 @@
     <!-- Header with Logo -->
     <mj-section background-color="#ffffff" padding="20px 0">
       <mj-column>
-        <mj-image src="img/test logo.png" alt="StudyHub Logo" width="200px" align="center" />
+        <mj-image src="https://lh3.googleusercontent.com/d/1gUPxxaOP7Us3AfGfy0jfh2f9Ifyf7yZ8" alt="StudyHub Logo" width="200px" align="center" />
       </mj-column>
     </mj-section>
 
@@ -47,7 +47,7 @@
     <!-- Product Showcase -->
     <mj-section background-color="#ffffff" padding="40px 20px">
       <mj-column>
-        <mj-image src="img/Shared Space.jpg" alt="Shared Co-Working Space" css-class="full-width-img" border-radius="15px" />
+        <mj-image src="https://lh3.googleusercontent.com/d/1QkAY0zOXNlXbI73jnfyuJI2FKsRqxu7x" alt="Shared Co-Working Space" css-class="full-width-img" border-radius="15px" />
         <mj-text font-size="28px" align="center" font-weight="bold" padding="30px 0 20px">
           Why Choose Co-Working Space & Study Hub?
         </mj-text>
@@ -68,7 +68,7 @@
 
     <mj-section background-color="#ffffff" padding="20px">
       <mj-column width="33.33%">
-        <mj-image src="img/Conference Room.png" alt="Conference Room" width="150px" align="center" />
+        <mj-image src="https://lh3.googleusercontent.com/d/1ABemjUxWx88GPdBs7cbvXf5TZJTRWRez" alt="Conference Room" width="150px" align="center" />
         <mj-text font-size="18px" align="center" font-weight="bold" padding="20px 0 10px">
           Meeting Rooms
         </mj-text>
@@ -77,7 +77,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="33.33%">
-        <mj-image src="img/Drafting Table.jpg" alt="Drafting Table" width="150px" align="center" />
+        <mj-image src="https://lh3.googleusercontent.com/d/1vbRYP7yj2rvcWtC5VyvvQXCnXY2L-INq" alt="Drafting Table" width="150px" align="center" />
         <mj-text font-size="18px" align="center" font-weight="bold" padding="20px 0 10px">
           Drafting Tables
         </mj-text>
@@ -86,7 +86,7 @@
         </mj-text>
       </mj-column>
       <mj-column width="33.33%">
-        <mj-image src="img/_DSC3586.jpg" alt="Cozy Place" width="150px" align="center" />
+        <mj-image src="https://lh3.googleusercontent.com/d/16Lz6WGB564S-mvCwAlyb-iLYpk9DN4yz" alt="Cozy Place" width="150px" align="center" />
         <mj-text font-size="18px" align="center" font-weight="bold" padding="20px 0 10px">
           Cozy Place
         </mj-text>
@@ -103,7 +103,7 @@
           Loved by Our Community
         </mj-text>
         <mj-text align="center" font-size="16px" color="#666">
-          "StudyHub transformed my work-life balance. The perfect blend of focus and collaboration!" - Alex Chen, Freelance Designer
+          "This place transformed my work-life balance. I am more productive here!" - JD, Software Engineer
         </mj-text>
       </mj-column>
     </mj-section>
@@ -115,7 +115,7 @@
           Study Here Today!
         </mj-text>
         <mj-text font-size="18px" color="#ffffff" align="center" padding="20px 0">
-          Get your first month at 20% off. Limited spots available!
+          Start for as low as P40/hr. Limited spots available!
         </mj-text>
         <mj-button background-color="#ffffff" color="#0d47a1" font-size="20px" padding="25px 50px" border-radius="35px" href="#" font-weight="bold">
           Reserve Your Spot
